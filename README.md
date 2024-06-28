@@ -4,9 +4,11 @@
 - My favorite movie : The life aquatic with steave zisouh
 - My favorite game : The Return of the Obra Dinn
 - My favorite show : Azumanga Diaoh
+- My favorite band : LCD soundsystem
 
 ## Current projects
-- Snowcrash - It's a game engine that I am making for fun
+- learning vulkan
+- Getting costco to sell me estrogen
   
 ## What do I like to make?
 I love to make game engines. Most repositories are failed game engines (lol). Currently, I am trying to make ONE FINAL ENGINE: snowcrash!
